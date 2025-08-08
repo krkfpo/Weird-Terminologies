@@ -13,3 +13,9 @@ DX = developer Experience <br>
 YOE = Years of Experience <br>
 EOD = End of Day <br>
 
+CMS = Content management system <br>
+  <img width="816" height="740" alt="image" src="https://github.com/user-attachments/assets/7372b70d-1a05-4749-a333-eb42d2867af5" />
+
+LMS = Learning Management System <br>
+CDN = Content Delivery Network <br>
+
