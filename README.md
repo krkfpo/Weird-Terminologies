@@ -1,15 +1,15 @@
 ## Weird-Terminologies
-POC = Proof of Concept
-MVP = Minimum Viable Product
-MMP = Minimum Marketable Product
-MAP = Minimum Awesome Product 
-MLP = Minimum Lovable Product 
-OA = Online Assesment
-HFT = High Frequency Trading
-SRE = Site Reliability Engineer
-SWE = Software Engineer
-UX = user Experience
-DX = developer Experience
-YOE = Years of Experience
-EOD = End of Day
+POC = Proof of Concept <br>
+MVP = Minimum Viable Product <br>
+MMP = Minimum Marketable Product <br>
+MAP = Minimum Awesome Product <br>
+MLP = Minimum Lovable Product <br>
+OA = Online Assesment <br>
+HFT = High Frequency Trading <br>
+SRE = Site Reliability Engineer <br>
+SWE = Software Engineer <br>
+UX = user Experience <br>
+DX = developer Experience <br>
+YOE = Years of Experience <br>
+EOD = End of Day <br>
 
